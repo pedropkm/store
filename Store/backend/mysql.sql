@@ -1,0 +1,1 @@
+$conn = new mysqli('locahost', 'your-username', 'your-password');
